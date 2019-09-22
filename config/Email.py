@@ -23,7 +23,7 @@ class Email:
         self.sender = 'ernestw4q12@163.com'
         self.smtp_server = 'smtp.{0}.com'.format(re.findall(r"@(.*)\.", self.sender)[0])
         self.username = 'ernestw4q12@163.com'
-        self.password = 'ernestw4q12'
+        self.password = ''
         if type(receivers) is str:
             receivers = [receivers]
         self.receivers = receivers

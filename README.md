@@ -4,11 +4,11 @@ This project is a dispatching system based on MySQL.
 #### 项目介绍
 本项目是以mysql为基石的调度系统
 
-[调度主逻辑图](https://github.com/WAYDN/mysql_scheduling/blob/master/调度主逻辑图.png)
+[调度主逻辑图](https://github.com/WAYDN/mysql_scheduling/tree/master/img/调度主逻辑图.png)
 
-[调度修复执行逻辑](https://github.com/WAYDN/mysql_scheduling/blob/master/调度修复执行逻辑.png)
+[调度修复执行逻辑](https://github.com/WAYDN/mysql_scheduling/tree/master/img/调度修复执行逻辑.png)
 
-[调度系统基础配置表](https://github.com/WAYDN/mysql_scheduling/blob/master/调度系统基础配置表.png)
+[调度系统基础配置表](https://github.com/WAYDN/mysql_scheduling/tree/master/img/调度系统基础配置表.png)
 
 
 #### 开发环境
